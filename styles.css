@@ -219,6 +219,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 8px;
+    border: none;
     border-radius: 100px;
     position: relative;
     overflow: hidden;
@@ -612,3 +613,4 @@ body {
         gap: 6px;
     }
 }
+
